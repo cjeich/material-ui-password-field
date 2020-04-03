@@ -55,7 +55,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "@material-ui/icons": "^1.0.0",
+    "@material-ui/icons": "^4.0.0",
     "material-ui-toggle-icon": "^1.0.6",
     "prop-types": "^15.5.10"
   },
